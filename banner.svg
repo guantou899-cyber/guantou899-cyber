@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="罐头：做好玩的游戏，也做好用的工具">
+<rect width="1200" height="300" rx="20" fill="#103438"/>
+<g fill="#275055" opacity=".65"><path d="M800 230v-40h40v-40h40v-40h40v-40h40v160zm200 0v-80h40v-40h40v-40h40v160z"/><path d="M740 250h400v8H740z"/></g>
+<rect x="60" y="53" width="44" height="7" fill="#e9ad6e"/>
+<text x="60" y="125" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="50" font-weight="700" fill="#f4e9d5">罐头</text>
+<text x="60" y="182" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="29" fill="#f4e9d5">做好玩的游戏，也做好用的工具。</text>
+<text x="60" y="238" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="18" fill="#b8cfcc">独立游戏 / 像素美术 / 创作工具</text>
+<g fill="#e9ad6e"><rect x="876" y="82" width="12" height="12"/><rect x="1050" y="48" width="8" height="8"/><rect x="1120" y="120" width="12" height="12"/></g>
+</svg>
